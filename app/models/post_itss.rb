@@ -1,0 +1,2 @@
+class PostItss < ApplicationRecord
+end
